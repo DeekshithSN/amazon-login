@@ -6,6 +6,7 @@ Below is the list of **commands**
 - git add 
 - git commit 
 - git push 
+hbnjm
 
 no | git issues |   resolution |
 ---|------------|--------------|
